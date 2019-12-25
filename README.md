@@ -1,1 +1,3 @@
-# Urban_Spatial_Analytics
+# Urban Spatial Analytics
+
+Collection of my projects, simulations, maps and more... 
