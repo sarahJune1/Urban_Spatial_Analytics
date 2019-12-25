@@ -1,0 +1,4 @@
+Point_Count,Name,FromBreak,ToBreak,Selected_N,Prop_ID,Barbecue,Basketball,Dogfriend,Eateries,Playground,Tennis,skate,parknum,area,park_name,ORIG_FID,AnalysisArea,MEAN_price_clea,STD_price_clea
+1891,Location 1 : 10 - 15,10.0,15.0,Fort Greene Park,B032,1,1,1,0,2,1,0,B032,0.16045999,Fort Greene Park,2,0.65786027,147.90745637,90.37907471
+1290,Location 1 : 5 - 10,5.0,10.0,Fort Greene Park,B032,1,1,1,0,2,1,0,B032,0.16045999,Fort Greene Park,2,0.40104922,149.39612403,86.38633783
+191,Location 1 : 0 - 5,0.0,5.0,Fort Greene Park,B032,1,1,1,0,2,1,0,B032,0.16045999,Fort Greene Park,2,0.09294868,158.97905759,142.02545947

@@ -1,0 +1,7 @@
+Point_Count,Name,FromBreak,ToBreak,Selected_N,Prop_ID,Barbecue,Basketball,Dogfriend,Eateries,Playground,Tennis,skate,parknum,area,park_name,ORIG_FID,AnalysisArea,MEAN_price_clea,STD_price_clea
+0,Location 1 : 25 - 30,25.0,30.0,Park Of The Americas,Q026,0,1,0,1,1,0,0,Q026,0.01693574,Park Of The Americas,7,1.53162834,,
+0,Location 1 : 20 - 25,20.0,25.0,Park Of The Americas,Q026,0,1,0,1,1,0,0,Q026,0.01693574,Park Of The Americas,7,1.20659165,,
+10,Location 1 : 15 - 20,15.0,20.0,Park Of The Americas,Q026,0,1,0,1,1,0,0,Q026,0.01693574,Park Of The Americas,7,0.96474805,85.0,35.59026084
+107,Location 1 : 10 - 15,10.0,15.0,Park Of The Americas,Q026,0,1,0,1,1,0,0,Q026,0.01693574,Park Of The Americas,7,0.72294759,86.09345794,34.14633678
+79,Location 1 : 5 - 10,5.0,10.0,Park Of The Americas,Q026,0,1,0,1,1,0,0,Q026,0.01693574,Park Of The Americas,7,0.46588908,40.18987342,8.25875751
+91,Location 1 : 0 - 5,0.0,5.0,Park Of The Americas,Q026,0,1,0,1,1,0,0,Q026,0.01693574,Park Of The Americas,7,0.16244925,56.25274725,48.63756971

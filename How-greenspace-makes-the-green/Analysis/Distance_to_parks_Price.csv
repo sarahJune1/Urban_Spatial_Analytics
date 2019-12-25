@@ -1,0 +1,4 @@
+Point_Count,Name,FromBreak,ToBreak,Selected_N,Prop_ID,Barbecue,Basketball,Dogfriend,Eateries,Playground,Tennis,skate,parknum,area,park_name,ORIG_FID,AnalysisArea,MEAN_price_clea,STD_price_clea
+4774,Location 1 : 10 - 15,10.0,15.0,St. Nicholas Park,M077,2,5,1,0,3,0,0,M077,0.12277437,St. Nicholas Park,6,0.69384142,104.63112694,68.4731836
+2008,Location 1 : 5 - 10,5.0,10.0,St. Nicholas Park,M077,2,5,1,0,3,0,0,M077,0.12277437,St. Nicholas Park,6,0.29283626,106.71215139,57.38216028
+114,Location 1 : 0 - 5,0.0,5.0,St. Nicholas Park,M077,2,5,1,0,3,0,0,M077,0.12277437,St. Nicholas Park,6,0.0670725,116.07894737,69.16021476

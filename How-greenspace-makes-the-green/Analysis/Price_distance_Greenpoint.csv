@@ -1,0 +1,4 @@
+Point_Count,Name,FromBreak,ToBreak,Selected_N,Prop_ID,Barbecue,Basketball,Dogfriend,Eateries,Playground,Tennis,skate,parknum,area,park_name,ORIG_FID,AnalysisArea,MEAN_price_clea,STD_price_clea
+45,Location 1 : 10 - 15,10.0,15.0,McCarren Park,B058,1,2,1,1,1,1,0,B058,0.19276412,McCarren Park,4,0.720503,73.06666667,29.25235033
+1494,Location 1 : 5 - 10,5.0,10.0,McCarren Park,B058,1,2,1,1,1,1,0,B058,0.19276412,McCarren Park,4,0.45622544,143.07697456,86.98079389
+1076,Location 1 : 0 - 5,0.0,5.0,McCarren Park,B058,1,2,1,1,1,1,0,B058,0.19276412,McCarren Park,4,0.15907612,166.40055762,82.00109109

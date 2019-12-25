@@ -1,0 +1,4 @@
+Point_Count,Name,FromBreak,ToBreak,Selected_N,Prop_ID,Barbecue,Basketball,Dogfriend,Eateries,Playground,Tennis,skate,parknum,area,park_name,ORIG_FID,AnalysisArea,MEAN_price_clea,STD_price_clea
+180,Location 1 : 10 - 15,10.0,15.0,Washington Square Park,M098,0,0,1,2,1,0,0,M098,0.05301876,Washington Square Park,5,0.80852583,162.27777778,90.57081896
+2763,Location 1 : 5 - 10,5.0,10.0,Washington Square Park,M098,0,0,1,2,1,0,0,M098,0.05301876,Washington Square Park,5,0.49268518,222.56062251,123.09143472
+2180,Location 1 : 0 - 5,0.0,5.0,Washington Square Park,M098,0,0,1,2,1,0,0,M098,0.05301876,Washington Square Park,5,0.1872137,204.2,109.17893914

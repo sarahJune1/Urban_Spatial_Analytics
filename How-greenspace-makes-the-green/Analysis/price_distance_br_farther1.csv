@@ -1,0 +1,7 @@
+Point_Count,Name,FromBreak,ToBreak,Selected_N,Prop_ID,Barbecue,Basketball,Dogfriend,Eateries,Playground,Tennis,skate,parknum,area,park_name,ORIG_FID,AnalysisArea,MEAN_price_clea,STD_price_clea
+3362,Location 1 : 25 - 30,25.0,30.0,Prospect Park,B073,12,0,1,1,7,1,1,B073,2.5236623,Prospect Park,3,1.63960745,111.2825699,77.16641129
+4720,Location 1 : 20 - 25,20.0,25.0,Prospect Park,B073,12,0,1,1,7,1,1,B073,2.5236623,Prospect Park,3,1.35856024,123.12754237,96.92659942
+3634,Location 1 : 15 - 20,15.0,20.0,Prospect Park,B073,12,0,1,1,7,1,1,B073,2.5236623,Prospect Park,3,0.99915391,123.11805173,92.61004844
+1978,Location 1 : 10 - 15,10.0,15.0,Prospect Park,B073,12,0,1,1,7,1,1,B073,2.5236623,Prospect Park,3,0.60062051,125.88978766,94.36570446
+150,Location 1 : 5 - 10,5.0,10.0,Prospect Park,B073,12,0,1,1,7,1,1,B073,2.5236623,Prospect Park,3,0.38718322,116.64666667,57.55290961
+0,Location 1 : 0 - 5,0.0,5.0,Prospect Park,B073,12,0,1,1,7,1,1,B073,2.5236623,Prospect Park,3,0.13492815,,
